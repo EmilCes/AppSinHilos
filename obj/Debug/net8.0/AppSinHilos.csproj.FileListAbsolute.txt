@@ -1,0 +1,14 @@
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.deps.json
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.runtimeconfig.json
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.dll
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.pdb
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.AssemblyInfoInputs.cache
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.AssemblyInfo.cs
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.csproj.CoreCompileInputs.cache
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.dll
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/obj/Debug/net8.0/refint/AppSinHilos.dll
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.pdb
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.genruntimeconfig.cache
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppSinHilos/obj/Debug/net8.0/ref/AppSinHilos.dll
